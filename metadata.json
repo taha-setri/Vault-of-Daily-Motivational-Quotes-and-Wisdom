@@ -1,0 +1,8 @@
+{
+  "name": "خزنة الاقتباسات والحكم التحفيزية اليومية",
+  "description": "منصة مستقبلية ملهمة للاقتباسات والحكم التحفيزية اليومية، مع معرض بطاقات هادئ ومستقبلي وحفظ التأملات والملاحظات الشخصية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
